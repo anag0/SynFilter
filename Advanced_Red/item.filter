@@ -135,21 +135,21 @@ ItemDisplay[r21]: %TAN%%RUNENAME% Rune [21]
 ItemDisplay[r22]: %TAN%%RUNENAME% Rune [22]
 ItemDisplay[r23]: %TAN%%RUNENAME% Rune [23]
 //24-33
-ItemDisplay[r24]: %RED%%RUNENAME% Rune [24]
-ItemDisplay[r25]: %RED%%RUNENAME% Rune [25]
-ItemDisplay[r26]: %RED%%RUNENAME% Rune [26]
+ItemDisplay[r24]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RUNENAME% Rune ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ [24]
+ItemDisplay[r25]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RUNENAME% Rune ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ [25]
+ItemDisplay[r26]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RUNENAME% Rune ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ [26]
 //ItemDisplay[r27]: %RED%%RUNENAME% Rune []
 //ItemDisplay[r28]: %RED%%RUNENAME% Rune []
 //ItemDisplay[r29]: %RED%%RUNENAME% Rune []
 //ItemDisplay[r30]: %RED%%RUNENAME% Rune []
-ItemDisplay[r31]: %RED%%RUNENAME% Rune [31]
-ItemDisplay[r32]: %RED%%RUNENAME% Rune [32]
-ItemDisplay[r33]: %RED%%RUNENAME% Rune [33]
+ItemDisplay[r31]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RUNENAME% Rune ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ [31]
+ItemDisplay[r32]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RUNENAME% Rune ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ [32]
+ItemDisplay[r33]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RUNENAME% Rune ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ [33]
 //High Value Runes (3.0+)
-ItemDisplay[r27]: %RED%¤ %RUNENAME% Rune ¤
-ItemDisplay[r28]: %RED%¤ %RUNENAME% Rune ¤
-ItemDisplay[r29]: %RED%¤ %RUNENAME% Rune ¤
-ItemDisplay[r30]: %RED%¤ %RUNENAME% Rune ¤
+ItemDisplay[r27]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RUNENAME% Rune ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[r28]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RUNENAME% Rune ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[r29]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RUNENAME% Rune ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+ItemDisplay[r30]: %RED%¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤ %RUNENAME% Rune ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
 //
 
 //misc quest
